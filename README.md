@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kentag2
-- 👀 I’m interested in everything to with TS, Python
+- 👀 I’m a fullstack enginner currently working with Python, Typescript and AWS
 
 <!---
 Kentag2/Kentag2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
